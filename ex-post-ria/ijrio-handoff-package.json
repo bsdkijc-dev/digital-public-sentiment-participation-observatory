@@ -1,0 +1,25 @@
+{
+  "handoff_version": "1.0.0",
+  "source_observatory": "DSPPO v1.1",
+  "target_observatory": "IJRIO v1.19.0",
+  "pilot_perma_id": "PERMA-2016-01",
+  "official_url": "https://peraturan.bpk.go.id/Details/209641/perma-no-1-tahun-2016",
+  "complement_perma_id": "PERMA-2022-03",
+  "traceability_chain": [
+    "PUBLIC_CONCERN",
+    "RESEARCH_QUESTION",
+    "VALIDATED_EVIDENCE",
+    "REGULATORY_IMPACT_FINDING",
+    "POLICY_RECOMMENDATION",
+    "OFFICIAL_RESPONSE",
+    "FUTURE_REGULATORY_IMPROVEMENT"
+  ],
+  "linked_datasets": [
+    "synthetic-data/perma_registry.csv",
+    "synthetic-data/validated_evidence.csv",
+    "synthetic-data/implementation_gap_analysis.csv",
+    "synthetic-data/regulatory_impact_evidence.csv",
+    "synthetic-data/policy_response_matrix.csv"
+  ],
+  "approval_status": "REQUIRES_HUMAN_APPROVAL"
+}
