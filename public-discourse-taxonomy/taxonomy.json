@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "languages": ["id", "en"],
+  "sentiment_classes": ["POSITIVE", "NEGATIVE", "NEUTRAL", "MIXED", "UNCLEAR"],
+  "categories": [
+    {
+      "code": "TAX-01",
+      "name_en": "Access & Cost Barriers",
+      "name_id": "Hambatan Akses & Biaya",
+      "applicable_permas": ["PERMA-2016-01", "PERMA-2015-02", "PERMA-2019-01"],
+      "keywords_id": ["biaya", "panjar", "mahal", "posbakum", "prodeo", "gratis", "akses", "jarak", "mediator non-hakim"],
+      "keywords_en": ["cost", "fee", "expensive", "legal aid", "pro bono", "access", "distance"]
+    },
+    {
+      "code": "TAX-02",
+      "name_en": "Digital & e-Court Usability",
+      "name_id": "Kegunaan Sistem Elektronik",
+      "applicable_permas": ["PERMA-2019-01", "PERMA-2022-07", "PERMA-2022-03"],
+      "keywords_id": ["ecourt", "e-court", "elitigasi", "e-litigasi", "mediasi elektronik", "error", "server", "unggah", "sinyal", "zoom"],
+      "keywords_en": ["ecourt", "e-court", "e-mediation", "upload", "downtime", "usability", "login"]
+    },
+    {
+      "code": "TAX-03",
+      "name_en": "Mediation & ADR Quality",
+      "name_id": "Kualitas Mediasi & ADR",
+      "applicable_permas": ["PERMA-2016-01", "PERMA-2022-03"],
+      "keywords_id": ["mediasi", "mediator", "itikad baik", "damai", "akta perdamaian", "sepakat", "gagal mediasi", "netral"],
+      "keywords_en": ["mediation", "mediator", "good faith", "settlement", "neutrality", "conciliation"]
+    },
+    {
+      "code": "TAX-04",
+      "name_en": "Procedural Delay & Transparency",
+      "name_id": "Keterlambatan & Transparansi Prosedur",
+      "applicable_permas": ["PERMA-2015-02", "PERMA-2019-04", "PERMA-2019-01"],
+      "keywords_id": ["lama", "lambat", "tunda", "jadwal", "sipp", "informasi", "putusan", "gugatan sederhana"],
+      "keywords_en": ["delay", "slow", "postponed", "schedule", "transparency", "small claim"]
+    },
+    {
+      "code": "TAX-05",
+      "name_en": "Vulnerable Group & Gender Protection",
+      "name_id": "Perlindungan Kelompok Rentan & Perempuan",
+      "applicable_permas": ["PERMA-2017-03"],
+      "keywords_id": ["perempuan", "korban", "kekerasan", "disabilitas", "ramah anak", "intimidasi", "sensitif gender"],
+      "keywords_en": ["women", "vulnerable", "gender", "intimidation", "disability", "protection"]
+    },
+    {
+      "code": "TAX-06",
+      "name_en": "Victim Restitution & Enforcement",
+      "name_id": "Restitusi Korban & Eksekusi Putusan",
+      "applicable_permas": ["PERMA-2022-01", "PERMA-2015-02"],
+      "keywords_id": ["restitusi", "kompensasi", "lpsk", "eksekusi", "sita", "ganti rugi"],
+      "keywords_en": ["restitution", "compensation", "enforcement", "execution", "seizure"]
+    },
+    {
+      "code": "TAX-07",
+      "name_en": "Institutional Trust & Service Ethics",
+      "name_id": "Kepercayaan Publik & Etika Layanan",
+      "applicable_permas": ["PERMA-2016-01", "PERMA-2015-02", "PERMA-2017-03", "PERMA-2019-01", "PERMA-2022-01"],
+      "keywords_id": ["ptsp", "pelayanan", "ramah", "pungli", "siwas", "lapor", "kepercayaan", "adil"],
+      "keywords_en": ["service", "ethics", "trust", "fairness", "complaint", "ptsp"]
+    }
+  ]
+}
