@@ -1,0 +1,15 @@
+dataset,column_name,required,pii_allowed,description
+ALL_15_DATASETS,record_id,YES,NO,Mandatory DSPPO v1.1 metadata field: record_id
+ALL_15_DATASETS,research_project_id,YES,NO,Mandatory DSPPO v1.1 metadata field: research_project_id
+ALL_15_DATASETS,perma_number,YES,NO,Mandatory DSPPO v1.1 metadata field: perma_number
+ALL_15_DATASETS,perma_year,YES,NO,Mandatory DSPPO v1.1 metadata field: perma_year
+ALL_15_DATASETS,issue_category,YES,NO,Mandatory DSPPO v1.1 metadata field: issue_category
+ALL_15_DATASETS,source_type,YES,NO,Mandatory DSPPO v1.1 metadata field: source_type
+ALL_15_DATASETS,source_reference,YES,NO,Mandatory DSPPO v1.1 metadata field: source_reference
+ALL_15_DATASETS,collection_date,YES,NO,Mandatory DSPPO v1.1 metadata field: collection_date
+ALL_15_DATASETS,verification_status,YES,NO,Mandatory DSPPO v1.1 metadata field: verification_status
+ALL_15_DATASETS,evidence_classification,YES,NO,Mandatory DSPPO v1.1 metadata field: evidence_classification
+ALL_15_DATASETS,confidence_level,YES,NO,Mandatory DSPPO v1.1 metadata field: confidence_level
+ALL_15_DATASETS,methodology_version,YES,NO,Mandatory DSPPO v1.1 metadata field: methodology_version
+ALL_15_DATASETS,privacy_status,YES,NO,Mandatory DSPPO v1.1 metadata field: privacy_status
+ALL_15_DATASETS,publication_status,YES,NO,Mandatory DSPPO v1.1 metadata field: publication_status
