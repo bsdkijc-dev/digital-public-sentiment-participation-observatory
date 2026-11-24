@@ -7,7 +7,7 @@ from pathlib import Path
 SEED = 20261124
 random.seed(SEED)
 
-BASE = Path("artifacts/file_generation/ttl=63d/intermediate/digital-public-sentiment-participation-observatory")
+BASE = Path(__file__).resolve().parent.parent
 
 MANDATORY_META = [
     "record_id",

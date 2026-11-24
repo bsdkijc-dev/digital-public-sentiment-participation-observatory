@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-BASE = Path("artifacts/file_generation/ttl=63d/intermediate/digital-public-sentiment-participation-observatory")
+BASE = Path(__file__).resolve().parent.parent
 SYNTH = BASE / "synthetic-data"
 
 MANDATORY_META = [
