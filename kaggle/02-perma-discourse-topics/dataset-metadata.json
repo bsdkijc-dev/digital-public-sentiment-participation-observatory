@@ -1,0 +1,17 @@
+{
+  "title": "PERMA Discourse Topic Aggregates",
+  "id": "judicialcollege/dsppo-02-perma-discourse-topics",
+  "subtitle": "Anonymised topic aggregates on Indonesian Supreme Court regulations",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "nlp",
+    "text-mining",
+    "government"
+  ],
+  "isPrivate": true
+}

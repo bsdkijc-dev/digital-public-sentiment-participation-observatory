@@ -1,0 +1,17 @@
+{
+  "title": "Judicial Service Accessibility Data",
+  "id": "judicialcollege/dsppo-03-judicial-accessibility",
+  "subtitle": "Indicators of court service accessibility and digital readiness",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "government",
+    "law",
+    "tabular",
+    "public-policy"
+  ],
+  "isPrivate": true
+}

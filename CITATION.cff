@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, methodology, or dataset architecture, please cite it as below."
+title: "Digital Public Sentiment and Participation Observatory (DSPPO)"
+version: "1.1.0-phase0"
+date-released: "2026-11-24"
+authors:
+  - family-names: "Mustafa"
+    given-names: "Cecep"
+repository-code: "https://github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory"
+license: "MIT"
+keywords:
+  - "judicial-policy"
+  - "public-participation"
+  - "regulatory-impact-assessment"
+  - "sentiment-analysis"
+  - "open-justice"

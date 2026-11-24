@@ -1,0 +1,17 @@
+{
+  "title": "Judicial Public Issues Registry",
+  "id": "judicialcollege/dsppo-01-judicial-public-issues",
+  "subtitle": "Structured judicial service public issues dataset for PERMA research",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "government",
+    "nlp",
+    "public-policy"
+  ],
+  "isPrivate": true
+}

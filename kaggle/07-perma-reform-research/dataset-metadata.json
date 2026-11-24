@@ -1,0 +1,16 @@
+{
+  "title": "PERMA Regulatory Reform Dataset",
+  "id": "judicialcollege/dsppo-07-perma-reform-research",
+  "subtitle": "Policy recommendations and reasoned response matrices for reform",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "government",
+    "public-policy"
+  ],
+  "isPrivate": true
+}

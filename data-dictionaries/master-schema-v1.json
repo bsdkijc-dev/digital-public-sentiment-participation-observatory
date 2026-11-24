@@ -1,0 +1,36 @@
+{
+  "version": "1.1",
+  "mandatory_metadata_columns": [
+    "record_id",
+    "research_project_id",
+    "perma_number",
+    "perma_year",
+    "issue_category",
+    "source_type",
+    "source_reference",
+    "collection_date",
+    "verification_status",
+    "evidence_classification",
+    "confidence_level",
+    "methodology_version",
+    "privacy_status",
+    "publication_status"
+  ],
+  "datasets": [
+    "perma_registry.csv",
+    "public_issue_registry.csv",
+    "discourse_topic_aggregates.csv",
+    "sentiment_analysis_results.csv",
+    "stakeholder_groups.csv",
+    "consultation_submissions.csv",
+    "validated_evidence.csv",
+    "judicial_access_indicators.csv",
+    "implementation_gap_analysis.csv",
+    "regulatory_impact_evidence.csv",
+    "public_recommendations.csv",
+    "policy_response_matrix.csv",
+    "source_registry.csv",
+    "research_quality_log.csv",
+    "publication_approval_registry.csv"
+  ]
+}
