@@ -6,7 +6,7 @@
     "stage_kaggle_packages": {
       "passed": true,
       "returncode": 0,
-      "output": "Staged CSVs and data_dictionary.csv into 7/7 Kaggle dataset folders."
+      "output": "Staged updated CSVs and cleaned Kaggle tags across 7/7 Kaggle dataset folders."
     },
     "validate_dsppo_datasets": {
       "passed": true,
@@ -16,7 +16,7 @@
     "test_pipeline": {
       "passed": true,
       "returncode": 0,
-      "output": "test_pii_scrubber (__main__.TestDSPPOPipeline.test_pii_scrubber) ... ok\ntest_process_records_zero_pii (__main__.TestDSPPOPipeline.test_process_records_zero_pii) ... ok\ntest_topic_and_sentiment (__main__.TestDSPPOPipeline.test_topic_and_sentiment) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK"
+      "output": "test_pii_scrubber (__main__.TestDSPPOPipeline.test_pii_scrubber) ... ok\ntest_process_records_zero_pii (__main__.TestDSPPOPipeline.test_process_records_zero_pii) ... ok\ntest_topic_and_sentiment (__main__.TestDSPPOPipeline.test_topic_and_sentiment) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nOK"
     },
     "verify_phase6_9_outputs": {
       "passed": true,
