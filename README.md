@@ -1,4 +1,18 @@
-# Digital Public Sentiment and Participation Observatory (DSPPO v1.1)
+<div align="center">
+
+<img src="assets/logo.svg" alt="Digital Public Sentiment and Participation Observatory (DSPPO) Logo" width="140">
+
+# Digital Public Sentiment and Participation Observatory (DSPPO)
+
+### Independent public-interest research infrastructure connecting public discourse and ex-post judicial regulatory impact.
+
+[![License](https://img.shields.io/badge/License-MIT_/_CC_BY_4.0-blue?style=flat)](LICENSE) ![Stack](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white) [![CI](https://github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory/actions/workflows/ci_qa.yml/badge.svg)](https://github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory/actions/workflows/ci_qa.yml)
+
+[Documentation](methodology/) · [Repository](https://github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory)
+
+</div>
+
+---
 
 **Independent Public-Interest Research Infrastructure for Indonesian Judicial Policy**
 
@@ -67,3 +81,13 @@ All datasets enforce a strict **14-column mandatory metadata standard**, zero-im
 ## Human Approval Gate
 
 No personal data beyond approved parameters, stakeholder engagement on behalf of an institution, external dataset publication, or institutional policy recommendation may be published without **explicit human approval**.
+
+---
+
+<div align="center">
+
+**Digital Public Sentiment and Participation Observatory (DSPPO)**
+
+[github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory](https://github.com/bsdkijc-dev/digital-public-sentiment-participation-observatory)
+
+</div>
